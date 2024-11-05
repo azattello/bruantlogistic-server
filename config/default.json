@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:jui1sHNSD5lllkua@bruantlogistic.inkjt.mongodb.net/?retryWrites=true&w=majority&appName=bruantlogistic",
+    "secretKey" : "mern-secret-key"
+}
